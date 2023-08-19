@@ -1,0 +1,6 @@
+Modelo\Oradores.class
+com\mycompany\conferencias\JakartaRestConfiguration.class
+Config\Conexion.class
+Controlador\Controlador.class
+com\mycompany\conferencias\resources\JakartaEE8Resource.class
+ModeloDAO\oradoresDAO.class

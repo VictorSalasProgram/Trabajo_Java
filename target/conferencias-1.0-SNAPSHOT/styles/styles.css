@@ -1,0 +1,83 @@
+
+
+.navbarprincipal{
+    height: 5rem;
+}
+
+.carousel-item.active img {
+    filter: brightness(50%);
+}
+
+.textos {
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.footer{
+    height: 5rem;
+    background-image: linear-gradient(to bottom right,rgb(9, 43, 62), rgb(20, 66, 93),rgb(25, 72, 100), rgb(28, 78, 108));
+}
+
+.conviertete{
+    font-size: 0.8rem;
+}
+.orador{
+    font-size: 2.2rem;
+    margin-top: -1.1rem;
+}
+
+.anotate {
+    margin-bottom: -1.3rem;
+}
+.botonenviar {
+    background-color: rgb(132, 206, 28);
+    color: white;
+    font-weight: 2%;
+    border-radius: 4px;
+    border:rgb(119, 189, 20);
+    width: 100%;
+    height: 13%;
+    margin-bottom: 1rem;
+    
+    
+}
+
+.pform {
+    font-size:smaller;
+    margin-top: -2%;
+    font-weight: 300;
+}
+
+.sub {
+    border-bottom: 1.5px dotted black;
+}
+
+
+.form-row{
+    width: 100%;
+}
+
+.btn_borrar, .btnresumen  {
+    background-color: rgb(132, 206, 28);
+    color: white;
+    font-weight: 2%;
+    border-radius: 4px;
+    border:rgb(119, 189, 20);
+    width: 30%;
+    height: 15%;
+    margin-bottom: 1rem;
+
+}
+.btn_borrar{
+    margin-right: 2rem;
+}
+
+.cardscontenedor{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.texto{
+    text-align: center;
+}

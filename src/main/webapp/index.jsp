@@ -171,7 +171,7 @@
       <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Sobre qué quieres hablar?"></textarea>
     </div>
     <p class="pform">Recuerda incluir un título para tu charla</p>
-    <input type="button" class="botonenviar" onclick="alertaFormulario()" value="Enviar" ></input>
+    <input type="button" class="botonenviar"  value="Enviar" ></input>
   </form>
   </div>
 
